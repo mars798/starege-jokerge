@@ -1,4 +1,4 @@
-module starege-jokerge
+module github.com/mars798/starege-jokerge
 
 go 1.20
 

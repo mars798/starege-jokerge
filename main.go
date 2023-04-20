@@ -9,7 +9,7 @@ import (
 
 	"math/rand"
 
-	"starege-jokerge/assets/encodedimages"
+	"github.com/mars798/starege-jokerge/assets/encodedimages"
 
 	"github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/ebiten/v2/ebitenutil"
